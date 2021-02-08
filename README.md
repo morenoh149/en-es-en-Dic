@@ -5,7 +5,7 @@ Spanish-English-Spanish XML dictionary
 This is a fork off of @mananoreboton I wanted a wordlist in json format like
 ```
 [
-  {“word”: “...”, “definition”: “…”}, 
+  {“prompt”: “...”, “answer”: “…”}, 
   …
  ] 
 ```
